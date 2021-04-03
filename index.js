@@ -152,5 +152,5 @@ client.on('message', message =>{
         
 });
 
-client.login('ODI3Mzg2NTc5NzMxNDgwNjEy.YGaRzA.4aTLmVRldjgNugibyzsifHwrHrc');
+client.login('you thot bitch');
 
