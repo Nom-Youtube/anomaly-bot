@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nom",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "express": "^4.17.1",
+    "hashmap": "^2.4.0",
+    "mongoose": "^5.12.3"
+  }
+}
